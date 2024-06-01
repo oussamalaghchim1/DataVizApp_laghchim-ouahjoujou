@@ -1,4 +1,4 @@
-OUAHJOUJOU Youssef - Oussama LAGHCHIM
+# OUAHJOUJOU Youssef - Oussama LAGHCHIM
 Cette application de visualisation des données utilise plusieurs bibliothèques Python, notamment Bokeh, Pandas et Matplotlib, pour analyser et visualiser des informations extraites d'un dataset Marocain de voitures provenant d'Avito. Elle présente plusieurs graphiques interactifs et informatifs permettant de mieux comprendre divers aspects des données de voitures d'occasion, telles que les marques, les prix, les kilométrages, et d'autres caractéristiques. Voici un résumé des différentes visualisations et de leur contenu:
 
 --> Kilométrage moyen par marque Description : Ce graphique à barres montre le kilométrage moyen des voitures pour chaque marque. Axes : X : Marque Y : Kilométrage moyen Interactivité : Un outil de survol (hover) affiche le détail du kilométrage moyen pour chaque marque.
